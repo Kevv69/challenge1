@@ -82,7 +82,7 @@ button:hover{
     margin-top: -1.3rem;
 }
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 490px){
     .channel{
         display: none;
     }
